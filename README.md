@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fascinated by the intersection of technology and human cognition using BCIs and neuroscience.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/debarghya-de-a57232251) 
+
 
 
 
